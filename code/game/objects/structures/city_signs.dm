@@ -410,6 +410,14 @@
 	desc = "A sign which reads 'Coffee and Sweets'."
 	icon_state = "coffee-left"
 
+<<<<<<< Updated upstream
+=======
+/obj/structure/sign/city/coffee
+	name = "Coffee And Sweets"
+	desc = "A sign which reads 'Coffee and Sweets'."
+	icon_state = "coffee-right"
+
+>>>>>>> Stashed changes
 /obj/structure/sign/city/techshop
 	name = "\improper techshop"
 	desc = "A sign which reads 'tech shop'."
